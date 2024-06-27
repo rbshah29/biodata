@@ -114,7 +114,7 @@
                 <h2 class="text-xl text-gray-700">Samaj:</h2><span class="text-sm"> Shri Dashashrimali 42 Gyati Samaj</span>
               </div>
               <div class="mt-2 mb-2">
-                <h2 class="text-xl  text-gray-700">Mosad:</h2><span class="text-sm"> Shri Kumarpal Ratilal Shah (Limbodra - Pune)</span>
+                <h2 class="text-xl  text-gray-700">Mosal:</h2><span class="text-sm"> Shri Kumarpal Ratilal Shah (Limbodra - Pune)</span>
               </div>
               
             </div>
