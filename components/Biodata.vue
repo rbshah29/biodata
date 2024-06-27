@@ -24,7 +24,7 @@
                     <span class="text-base font-semibold"> Height: </span> <span class="text-sm"> 5"11</span>
                   </div>
                   <div class="mt-2 mb-2">
-                    <span class="text-base font-semibold">Weight: </span> <span class="text-sm">  95 <small class="text-grey-200">kg</small></span>
+                    <span class="text-base font-semibold">Weight: </span> <span class="text-sm">  92 <small class="text-grey-200">kg</small></span>
                   </div>
                 </div>
                 <div class="mt-4">
@@ -108,7 +108,7 @@
                 </div>
               </div>
               <div class="mt-2 mb-2">
-                <h2 class="text-xl text-gry-700">Native:</h2><span class="text-sm"> Randheja</span>
+                <h2 class="text-xl text-gry-700">Native:</h2><span class="text-sm"> Randheja, Gujarat</span>
               </div>
               <div class="mt-2 mb-2">
                 <h2 class="text-xl text-gray-700">Samaj:</h2><span class="text-sm"> Shri Dashashrimali 42 Gyati Samaj</span>
