@@ -24,7 +24,7 @@
                     <span class="text-base font-semibold"> Height: </span> <span class="text-sm"> 5"11</span>
                   </div>
                   <div class="mt-2 mb-2">
-                    <span class="text-base font-semibold">Weight: </span> <span class="text-sm">  92 <small class="text-grey-200">kg</small></span>
+                    <span class="text-base font-semibold">Weight: </span> <span class="text-sm">  101 <small class="text-grey-200">kg</small></span>
                   </div>
                 </div>
                 <div class="mt-4">
