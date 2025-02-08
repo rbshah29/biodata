@@ -10,7 +10,7 @@
               <div class="ml-3 mt-4 md:mt-0 w-full">
                 <div>
                   <h1 class="text-3xl font-bold text-gray-800">Rutvik B Shah</h1>
-                  <p class="text-sm text-gray-600 mt-2">Software Developer @ Cold Chain Science Enterprise</p>
+                  <p class="text-sm text-gray-600 mt-2">Software Developer @ Evodev </p>
                 </div>
                 <div class="mt-4">
                   <h2 class="text-2xl font-semibold text-gray-700">About Me</h2><hr class="border-gray-400"/>
